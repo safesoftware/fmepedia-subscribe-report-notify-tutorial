@@ -1,0 +1,4 @@
+{
+"subject": "important message, stop everything and read",
+"message": "There was a sighting of a rare <b>warbleddash lizard</b> in South America!!!"
+}

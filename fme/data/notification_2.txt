@@ -1,0 +1,6 @@
+{
+"subject": "this just in...",
+"message": "There was a sighting of a rare <b>warbleddash lizard</b> in Argentina near the Paraguay border",
+"latitude":"-25",
+"longitude":"-60"
+}

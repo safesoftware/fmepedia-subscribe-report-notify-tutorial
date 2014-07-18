@@ -1,0 +1,6 @@
+{
+    "subject": "One last tour...",
+    "message": "<b><a href=”http://rush.com”>RUSH</a><b> enters the <i>land of the rising sun</i> for <u>one night only</u>!!",
+    "latitude": "36",
+    "longitude": "140"
+}
